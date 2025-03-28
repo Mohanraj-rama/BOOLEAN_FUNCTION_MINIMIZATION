@@ -53,7 +53,7 @@ endmodule
 **RTL realization**
 # 1-a)
 ![ex2](https://github.com/user-attachments/assets/649cc145-ba52-4298-9cb6-2fca77af9897)
-# 2-b)
+# 1-b)
 ![ex2_2](https://github.com/user-attachments/assets/3854152f-2b1d-4a1b-8497-9a9fe5771b17)
 
 **Timing Diagram**
